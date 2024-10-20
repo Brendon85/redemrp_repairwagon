@@ -1,0 +1,2 @@
+-- config.lua
+Config = {}
